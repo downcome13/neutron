@@ -24,3 +24,9 @@ Get in touch via `email <mailto:openstack-discuss@lists.openstack.org>`_. Use
 To learn how to contribute:
 
   CONTRIBUTING.rst
+
+  [Git Logo](https://i-vnexpress.vnecdn.net/2019/11/13/76686361-463000990980373-86502-4297-7019-1573632598.png)
+  
+  
+  
+  
